@@ -1,0 +1,119 @@
+{
+  "accounts": [
+    {
+      "name": "",
+      "email": "",
+      "balance": 0,
+      "password": "",
+      "transactions": []
+    },
+    {
+      "name": "clark",
+      "email": "clark@mit.edu",
+      "balance": 0,
+      "password": "secret",
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2018-09-26T16:02:41.474Z"
+        }
+      ]
+    },
+    {
+      "name": "sam",
+      "email": "sam@mit.edu",
+      "balance": 800,
+      "password": "12345",
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-10T11:57:21.130Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-10T12:00:20.203Z"
+        },
+        {
+          "action": "deposit",
+          "amount": 1000,
+          "timestamp": "2019-01-10T12:00:48.195Z"
+        },
+        {
+          "action": "transactions",
+          "amount": 0,
+          "timestamp": "2019-01-10T12:00:59.523Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": 100,
+          "timestamp": "2019-01-10T12:01:14.674Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": 100,
+          "timestamp": "2019-01-10T12:01:33.582Z"
+        },
+        {
+          "action": "read",
+          "amount": 0,
+          "timestamp": "2019-01-10T12:01:44.545Z"
+        }
+      ]
+    },
+    {
+      "name": "Pushpita Bhattacharjee",
+      "email": "pb@mit.edu",
+      "balance": 0,
+      "password": "1234",
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-10T12:13:35.948Z"
+        }
+      ]
+    },
+    {
+      "name": "Pushpita Bhattacharjee",
+      "email": "pushpita_b@rediffmail.com",
+      "balance": 0,
+      "password": "123",
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-15T12:22:00.928Z"
+        }
+      ]
+    },
+    {
+      "name": "Pushpita Bhattacharjee",
+      "email": "pushpitab2012@gmail.com",
+      "balance": 0,
+      "password": "123",
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-15T12:30:57.082Z"
+        }
+      ]
+    },
+    {
+      "name": "Pushpita Bhattacharjee",
+      "email": "pushpita@mit.edu",
+      "balance": 0,
+      "password": "123",
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-15T12:35:09.948Z"
+        }
+      ]
+    }
+  ]
+}
